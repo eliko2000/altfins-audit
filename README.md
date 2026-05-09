@@ -4,6 +4,8 @@ Forward-return audit of the public [@altfinsofficialchat](https://t.me/altfinsof
 
 This repo is the methodology and code behind [this thread](#) (replace with your tweet URL once posted). Run it yourself, change the parameters, get your own answer.
 
+> **Follow-up addendum:** [Same audit pointed at the dedicated bot signal feed](docs/feed-audit.md) ([@Signal_Feed_altFINS](https://t.me/Signal_Feed_altFINS)) — 470 actionable entries over 54 days, same verdict (no edge) but with a regime caveat.
+
 ## What it does
 
 1. **Scrape** — pulls every post from the AltFINS official poster in the chat for the last N days (default 730).

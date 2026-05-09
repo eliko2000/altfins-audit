@@ -1,7 +1,9 @@
 .env
 store/*.db
+store/*.db.tmp
 store/*.session
 store/*.session-journal
+store/shots/
 venv/
 __pycache__/
 *.pyc
