@@ -1,0 +1,6 @@
+telethon>=1.36
+ccxt>=4.3
+pandas>=2.2
+python-dateutil>=2.9
+python-dotenv>=1.0
+tabulate>=0.9
